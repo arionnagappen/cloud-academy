@@ -1,2 +1,2 @@
-# cloud-academ
+# cloud-academy
 Updating file
